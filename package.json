@@ -1,0 +1,10 @@
+{
+  "name": "token-radar-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Dynamic DeFi airdrop and pre-token valuation radar for make.fun token-radar-01",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "license": "MIT"
+}
